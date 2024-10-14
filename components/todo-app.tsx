@@ -37,7 +37,7 @@ export function TodoAppComponent() {
     <div className="min-h-screen bg-[#B0BDE5] flex items-center justify-center p-4">
       <div className="w-full max-w-md bg-white rounded-lg shadow-xl overflow-hidden">
         <div className="bg-[#2A7B6B] p-4">
-          <h1 className="text-2xl font-bold text-white text-center">To Do Saros App</h1>
+          <h1 className="text-2xl font-bold text-white text-center">To - Do Saros App</h1>
         </div>
         <div className="p-4">
           <div className="flex mb-4">
