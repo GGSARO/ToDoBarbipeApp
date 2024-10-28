@@ -14,7 +14,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "To Do Barbie Appxd",
+  title: "Barbie Appxd",
   description: "Creacion de la App de barbie",
   manifest: "/manifest.json",
   icons: {
