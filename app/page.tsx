@@ -2,7 +2,6 @@
 
 
 import PokemonGrid from '@/components/PokemonGrid';
-import InstallPrompt from './../components/InstallPrompt';
 
 // export default function Home() {
 //   return (

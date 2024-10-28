@@ -11,6 +11,7 @@ interface BeforeInstallPromptEvent extends Event {
 
 export default function InstallButton() {
   const [installPrompt, setInstallPrompt] = useState<BeforeInstallPromptEvent | null>(null)
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const [isInstallable, setIsInstallable] = useState(false)
   const [isStandalone, setIsStandalone] = useState(false)
 
