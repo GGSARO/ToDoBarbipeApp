@@ -39,7 +39,7 @@ export default async function Home() {
 
   return (
     <main className="container mx-auto py-8">
-      <h1 className="text-3xl font-bold mb-8 text-center">Pokédex</h1>
+      <h1 className="text-3xl font-bold mb-8 text-center">POKEMON By Poke API</h1>
       <PokemonGrid pokemonDetails={pokemonDetails} />
     </main>
   )
